@@ -12,6 +12,62 @@
       "groups": {
         "Project Vinland": "/proxy/api/imgchest/chapter/a8465xwevyx"
       }
+    },
+    "2": {
+      "title": "No.02",
+      "volume": "1",
+      "last_updated": "1714671009",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/6eyrm2mve4p"
+      }
+    },
+    "3": {
+      "title": "No.03",
+      "volume": "1",
+      "last_updated": "1721755928",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/qe4g5l5jr7j"
+      }
+    },
+    "4": {
+      "title": "No.04",
+      "volume": "1",
+      "last_updated": "1727544832",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/m9yx8v8r37q"
+      }
+    },
+    "5": {
+      "title": "No.05",
+      "volume": "1",
+      "last_updated": "1736706896",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/wl7l2k2gp4x"
+      }
+    },
+    "6": {
+      "title": "No.06",
+      "volume": "1",
+      "last_updated": "1736879760",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/9ryd6z6mw7k"
+      }
+    },
+    "7": {
+      "title": "No.07",
+      "volume": "2",
+      "last_updated": "1737830235",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/bp455855245"
+      }
+    },
+    "8": {
+      "title": "No.08",
+      "volume": "2",
+      "last_updated": "1742668717",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/ne7bkpkkn75"
+      }
     }
   }
 }
