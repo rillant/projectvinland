@@ -4,5 +4,102 @@
   "artist": "Kusanagi Mizuho",
   "author": "Kusanagi Mizuho",
   "cover": "https://mangadex.org/covers/3bb0279f-a01d-4aa4-93e4-305800f4b83e/e050eee4-b70a-4ffc-81cb-bc4a48d543a9.jpg",
-  "chapters": {}
+  "chapters": {
+    "258": {
+      "title": "We have lost too much",
+      "volume": "45",
+      "last_updated": "1749134359",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/v9sUy8w"
+      }
+    },
+    "259": {
+      "title": "A dull sword",
+      "volume": "45",
+      "last_updated": "1750343999",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/HuAkjg5"
+      }
+    },
+    "260": {
+      "title": "The words I didn't want to say",
+      "volume": "45",
+      "last_updated": "1720104443",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/7ToDWuo"
+      }
+    },
+    "261": {
+      "title": "Darkness falls",
+      "volume": "45",
+      "last_updated": "1722782886",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/sp13I78"
+      }
+    },
+    "262": {
+      "title": "Disheveled castle visitors",
+      "volume": "45",
+      "last_updated": "1725461325",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/iRvXZ8v"
+      }
+    },
+    "263": {
+      "title": "A world without pain",
+      "volume": "",
+      "last_updated": "1749221416",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/IKlNFcd"
+      }
+    },
+    "264": {
+      "title": "In the palm of one's hand",
+      "volume": "",
+      "last_updated": "1730735545",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/hqYKgtV"
+      }
+    },
+    "265": {
+      "title": "I thought the Dragon Warrios were pitiful",
+      "volume": "",
+      "last_updated": "1733414012",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/RILcaPm"
+      }
+    },
+    "266": {
+      "title": "Chasing the times of a distant day",
+      "volume": "",
+      "last_updated": "1735919662",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/wcxPcIx"
+      }
+    },
+    "267": {
+      "title": "From a distant past, towards my future",
+      "volume": "",
+      "last_updated": "1738770922",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/BOElHVX"
+      }
+    },
+    "268": {
+      "title": "The scales that bind the heart",
+      "volume": "",
+      "last_updated": "1749221764",
+      "groups": {
+        "Project Vinland & Honeysuckle Scans": "/proxy/api/imgur/chapter/MNYRvgu"
+      }
+    },
+    "269": {
+      "title": "The one even the gods cannot intimidate",
+      "volume": "",
+      "last_updated": "1744901807",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgur/chapter/ULWhuiP"
+      }
+    }
+  }
 }
