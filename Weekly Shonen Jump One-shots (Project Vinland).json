@@ -4,5 +4,14 @@
   "artist": "Various",
   "author": "Various",
   "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weekly_Shonen_Jump_logo.svg/1920px-Weekly_Shonen_Jump_logo.svg.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Usemono Sagashi by Muji Mujina",
+      "volume": "",
+      "last_updated": "1717958632",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/bp45585vn45"
+      }
+    }
+  }
 }
