@@ -1,0 +1,17 @@
+{
+  "title": "Void: No. Nine (Project Vinland)",
+  "description": "You can find chapters for Vinland Saga by Makoto Yukimura translated by scanlation group Project Vinland here.\n\nSynopsis: 300 years ago, God destroyed the old world and killed humans, leaving only the \"emissaries\". But underground humans live in the tunnel-filled Reform City. They search for relics, while living in fear from the threat of being hunted by the \"emissaries\".",
+  "artist": "Shima Shinya",
+  "author": "Shima Shinya",
+  "cover": "https://cdn.imgchest.com/files/7w6c2o92d8y.png",
+  "chapters": {
+    "1": {
+      "title": "No.01",
+      "volume": "1",
+      "last_updated": "1714495128",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/a8465xwevyx"
+      }
+    }
+  }
+}
