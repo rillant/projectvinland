@@ -1,6 +1,6 @@
 {
   "title": "Fuuko no Iru Mise (Project Vinland)",
-  "description": "You can find chapters for Fuuko no Iru Mise by Hitoshi Iwaaki translated by scanlation group Project Vinland here.\n\nSynopsis: Fuuko is a shy girl—so shy that she has trouble talking to strangers. Determined to change herself, she starts working as a waitress at Cafe Rhodos. The people she meets on and off the job will lead her through the often frightful world of adolescence, and beyond.",
+  "description": "You can find chapters for Fuuko no Iru Mise by Hitoshi Iwaaki translated by scanlation group Project Vinland here.\n\nNote: chapters 11-13 are missing as they were done by Habanero Scans. These will soon be filled with our own scans.\n\nSynopsis: Fuuko is a shy girl—so shy that she has trouble talking to strangers. Determined to change herself, she starts working as a waitress at Cafe Rhodos. The people she meets on and off the job will lead her through the often frightful world of adolescence, and beyond.",
   "artist": "Hitoshi Iwaaki",
   "author": "Hitoshi Iwaaki",
   "cover": "https://cdn.imgchest.com/files/ye3c2323el4.png",
@@ -11,6 +11,94 @@
       "last_updated": "1634737593",
       "groups": {
         "Project Vinland": "/proxy/api/imgchest/chapter/dl7pdqrr67o"
+      }
+    },
+    "2": {
+      "title": "One Man",
+      "volume": "1",
+      "last_updated": "1635442289",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/xny85z8g2yb"
+      }
+    },
+    "3": {
+      "title": "A different road than usual",
+      "volume": "1",
+      "last_updated": "1638815576",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/9p4nj2mpbyn"
+      }
+    },
+    "4": {
+      "title": "Ice Lady",
+      "volume": "1",
+      "last_updated": "1640284421",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/md7oql3224p"
+      }
+    },
+    "5": {
+      "title": "The Insistence of Youth",
+      "volume": "1",
+      "last_updated": "1645295683",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/9ryd6zova7k"
+      }
+    },
+    "6": {
+      "title": "Raison d'être",
+      "volume": "1",
+      "last_updated": "1647455753",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/qb4z83qa54j"
+      }
+    },
+    "7": {
+      "title": "Summer's End",
+      "volume": "1",
+      "last_updated": "1652290619",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/bp4558ean45"
+      }
+    },
+    "8": {
+      "title": "Other people's problems",
+      "volume": "1",
+      "last_updated": "1662658676",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/ne7bkpo8m75"
+      }
+    },
+    "9": {
+      "title": "Found a friend",
+      "volume": "1",
+      "last_updated": "1667846333",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/9ryd6zdla7k"
+      }
+    },
+    "10": {
+      "title": "Girls in the bushes",
+      "volume": "1",
+      "last_updated": "1703961583",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/qe4g5l3vq7j"
+      }
+    },
+    "14": {
+      "title": "Penpals",
+      "volume": "2",
+      "last_updated": "1594402845",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/agyv96bzb78"
+      }
+    },
+    "15": {
+      "title": "Jerk",
+      "volume": "2",
+      "last_updated": "1595266926",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/dl7pdqbg37o"
       }
     }
   }
