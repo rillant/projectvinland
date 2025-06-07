@@ -1,6 +1,6 @@
 {
   "title": "Fuuko no Iru Mise (Project Vinland)",
-  "description": "You can find chapters for Fuuko no Iru Mise by Hitoshi Iwaaki translated by scanlation group Project Vinland here.\n\nNote: chapters 11-13 are missing as they were done by Habanero Scans. These will soon be filled with our own scans.\n\nSynopsis: Fuuko is a shy girl—so shy that she has trouble talking to strangers. Determined to change herself, she starts working as a waitress at Cafe Rhodos. The people she meets on and off the job will lead her through the often frightful world of adolescence, and beyond.",
+  "description": "You can find chapters for Fuuko no Iru Mise by Hitoshi Iwaaki translated by scanlation group Project Vinland here.\n\nNote: chapters 11-13 are missing as they were done by Habanero Scans. These will soon be filled with our own scans. Chapters 14-21 are done with low quality public scans, these will also be replaced with our own high resolution scans soon.\n\nSynopsis: Fuuko is a shy girl—so shy that she has trouble talking to strangers. Determined to change herself, she starts working as a waitress at Cafe Rhodos. The people she meets on and off the job will lead her through the often frightful world of adolescence, and beyond.",
   "artist": "Hitoshi Iwaaki",
   "author": "Hitoshi Iwaaki",
   "cover": "https://cdn.imgchest.com/files/ye3c2323el4.png",
@@ -99,6 +99,54 @@
       "last_updated": "1595266926",
       "groups": {
         "Project Vinland": "/proxy/api/imgchest/chapter/dl7pdqbg37o"
+      }
+    },
+    "16": {
+      "title": "That girl's a sign",
+      "volume": "2",
+      "last_updated": "1595353409",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/wl7l2k8x34x"
+      }
+    },
+    "17": {
+      "title": "Escape the day",
+      "volume": "2",
+      "last_updated": "1595699067",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/9ryd6zd567k"
+      }
+    },
+    "18": {
+      "title": "Others' Measures",
+      "volume": "2",
+      "last_updated": "1595785578",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/bp4558rxv45"
+      }
+    },
+    "19": {
+      "title": "Café Crawl",
+      "volume": "2",
+      "last_updated": "1596217644",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/agyv96bdk78"
+      }
+    },
+    "20": {
+      "title": "A Dream of Fuuko Crying",
+      "volume": "2",
+      "last_updated": "1596908905",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/9p4nj2ae5yn"
+      }
+    },
+    "21": {
+      "title": "A Worrying Personality",
+      "volume": "2",
+      "last_updated": "1596908980",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/dl7pdqbqj7o"
       }
     }
   }
