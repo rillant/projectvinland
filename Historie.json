@@ -1,6 +1,6 @@
 {
   "title": "Historie (Project Vinland)",
-  "description": "You can find chapters for Historie by Hitoshi Iwaaki translated by scanlation groups Hox and Project Vinland here.\n\nNote: chapters 1-65 are not listed here as they have been officially released in English. Please buy the chapters on the K Manga platfrom by Kodansha to read them and support the author.\n\nSynopsis: Historie takes place in ancient Greece and follows the life of Eumenes and his childhood, who would later in his life grow up to be the secretary and general to Alexander the Great.",
+  "description": "You can find chapters for Historie by Hitoshi Iwaaki translated by scanlation groups Hox and Project Vinland here.\n\nNote: chapters 1-65 are not listed here as they have been officially released in English. Please buy the chapters on the K Manga platform by Kodansha to read them and support the author.\n\nSynopsis: Historie takes place in ancient Greece and follows the life of Eumenes and his childhood, who would later in his life grow up to be the secretary and general to Alexander the Great.",
   "artist": "Hitoshi Iwaaki",
   "author": "Hitoshi Iwaaki",
   "cover": "https://mangadex.org/covers/fa3b04d5-399f-4c92-80b9-a43f413ea932/2eff65c3-3914-4c9b-a6da-e9cb509c696e.jpg",
@@ -67,6 +67,286 @@
       "last_updated": "1749843567",
       "groups": {
         "Hox": "/proxy/api/imgchest/chapter/a8465keeoyx"
+      }
+    },
+    "74": {
+      "title": "Secret Order (1)",
+      "volume": "9",
+      "last_updated": "1749843673",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/ej7mlkbgn4d"
+      }
+    },
+    "75": {
+      "title": "Secret Order (2)",
+      "volume": "9",
+      "last_updated": "1749843707",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/pg735wmzj4r"
+      }
+    },
+    "76": {
+      "title": "Secret Order (3)",
+      "volume": "9",
+      "last_updated": "1749843748",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/xny85ogb5yb"
+      }
+    },
+    "77": {
+      "title": "Melanthios (1)",
+      "volume": "9",
+      "last_updated": "1749843803",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/agyv9w3mj78"
+      }
+    },
+    "78": {
+      "title": "Melanthios (2)",
+      "volume": "9",
+      "last_updated": "1749843852",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/9249pg8om7n"
+      }
+    },
+    "79": {
+      "title": "Chaeronea (1)",
+      "volume": "9",
+      "last_updated": "1749843901",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/dl7pd9lxp7o"
+      }
+    },
+    "80": {
+      "title": "Chaeronea (2)",
+      "volume": "9",
+      "last_updated": "1749843959",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/na7kve93b48"
+      }
+    },
+    "81": {
+      "title": "Chaeronea (3)",
+      "volume": "10",
+      "last_updated": "1749844022",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/vj4jgvxrx48"
+      }
+    },
+    "82": {
+      "title": "Chaeronea (4)",
+      "volume": "10",
+      "last_updated": "1749844098",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/9249pgoxm7n"
+      }
+    },
+    "83": {
+      "title": "Chaeronea (5)",
+      "volume": "10",
+      "last_updated": "1749844156",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/a8465kvaoyx"
+      }
+    },
+    "84": {
+      "title": "Chaeronea (6)",
+      "volume": "10",
+      "last_updated": "1749844201",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/pg735wzpg4r"
+      }
+    },
+    "85": {
+      "title": "The King's Left Hand (1)",
+      "volume": "10",
+      "last_updated": "1749844249",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/ne7bkv8pm75"
+      }
+    },
+    "86": {
+      "title": "The King's Left Hand (2)",
+      "volume": "10",
+      "last_updated": "1749844297",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/ljyqrzndd42"
+      }
+    },
+    "87": {
+      "title": "The King's Left Hand (3)",
+      "volume": "10",
+      "last_updated": "1749844349",
+      "groups": {
+        "Hox": "/proxy/api/imgchest/chapter/n87wxgwrxyx"
+      }
+    },
+    "88": {
+      "title": "Seat of the Soul (1)",
+      "volume": "11",
+      "last_updated": "1749844402",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/lqyeg69pm7d"
+      }
+    },
+    "89": {
+      "title": "Seat of the Soul (2)",
+      "volume": "11",
+      "last_updated": "1749844457",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/bp455zadn45"
+      }
+    },
+    "90": {
+      "title": "Seat of the Soul (3)",
+      "volume": "11",
+      "last_updated": "1749844506",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/9249pgojb7n"
+      }
+    },
+    "91": {
+      "title": "Seat of the Soul (4)",
+      "volume": "11",
+      "last_updated": "1749844558",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/md7oqx6j24p"
+      }
+    },
+    "92": {
+      "title": "Seat of the Soul (5)",
+      "volume": "11",
+      "last_updated": "1749844604",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/9ryd6avaa7k"
+      }
+    },
+    "93": {
+      "title": "Seat of the Soul (6)",
+      "volume": "11",
+      "last_updated": "1749844645",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/ej7mlkgk94d"
+      }
+    },
+    "94": {
+      "title": "Housewarming Celebration (1)",
+      "volume": "11",
+      "last_updated": "1749844677",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/qb4z8jaj54j"
+      }
+    },
+    "95": {
+      "title": "Housewarming Celebration (2)",
+      "volume": "11",
+      "last_updated": "1749844720",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/bp455zazn45"
+      }
+    },
+    "96": {
+      "title": "Disposal of Olympias (1)",
+      "volume": "11",
+      "last_updated": "1749844759",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/o24a8vzvd7l"
+      }
+    },
+    "97": {
+      "title": "Disposal of Olympias (2)",
+      "volume": "11",
+      "last_updated": "1749844794",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/ne7bkv8vm75"
+      }
+    },
+    "98": {
+      "title": "Warped",
+      "volume": "12",
+      "last_updated": "1749844833",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/5xy283wbzyl"
+      }
+    },
+    "99": {
+      "title": "A Fragment of Memory",
+      "volume": "12",
+      "last_updated": "1749844977",
+      "groups": {
+        "Project Vinland & Hox": "/proxy/api/imgchest/chapter/pg735wzbg4r"
+      }
+    },
+    "100": {
+      "title": "The Night Before",
+      "volume": "12",
+      "last_updated": "1749845016",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/n87wxgwexyx"
+      }
+    },
+    "101": {
+      "title": "Cardia (Heart) (1)",
+      "volume": "12",
+      "last_updated": "1749845052",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/xny85obq2yb"
+      }
+    },
+    "102": {
+      "title": "Cardia (Heart) (2)",
+      "volume": "12",
+      "last_updated": "1749845094",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/a8465kvlzyx"
+      }
+    },
+    "103": {
+      "title": "Cardia (Heart) (3)",
+      "volume": "12",
+      "last_updated": "1749845143",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/agyv9wmvb78"
+      }
+    },
+    "104": {
+      "title": "Cardia (Heart) (4)",
+      "volume": "12",
+      "last_updated": "1749845184",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/9p4njx53byn"
+      }
+    },
+    "105": {
+      "title": "Outside the Royal Palace (1)",
+      "volume": "12",
+      "last_updated": "1749845237",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/5xy283wdzyl"
+      }
+    },
+    "106": {
+      "title": "Outside the Royal Palace (2)",
+      "volume": "12",
+      "last_updated": "1749845288",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/5xy283wd3yl"
+      }
+    },
+    "107": {
+      "title": "Outside the Royal Palace (3)",
+      "volume": "12",
+      "last_updated": "1749845332",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/ljyqrznvx42"
+      }
+    },
+    "107.5": {
+      "title": "Notice of Prolonged Hiatus",
+      "volume": "",
+      "last_updated": "1749845385",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/qb4z8jadl4j"
       }
     }
   }
