@@ -1,0 +1,41 @@
+{
+  "title": "Marie-Antoinette. La jeunesse d'une reine. (Project Vinland)",
+  "description": "You can find chapters for Marie-Antoinette by Souryou Fuyumi translated by scanlation group Project Vinland here.\n\nSynopsis: Marie-Antoinette is one of the most popular historical figures to have been adapted into fiction. Sophia Coppola, Chantal Thomas or Riyoko Ikeda... many creators have given birth to a character in line with their ideals. However, with Fuyumi Soryo's new approach, it's not to reproduce the umpteenth icon maligned by Stephan Zweig's overly biased vision, but to restore an innocent young girl to historical reality. With her precision already displayed in Cesare, and thanks to the support of the Château de Versailles, this is no longer a simple manga, but a virtual plunge into the heart of the 18th-century court. Whether you're a fan of historical fiction, a manga reader or simply curious about something new, don't miss out on this creation!",
+  "artist": "Souryou Fuyumi",
+  "author": "Souryou Fuyumi",
+  "cover": "https://mangadex.org/covers/fb8d5379-c614-49f1-8ce6-1266b41337b8/7c641729-a409-41f6-88bb-95ca98d2d916.jpg",
+  "chapters": {
+    "2": {
+      "title": "Leçon 2: The Wedding of the Century",
+      "volume": "1",
+      "last_updated": "1761423179",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/dl7paawa67o"
+      }
+    },
+    "3": {
+      "title": "Leçon 3: The baptism of Versailles",
+      "volume": "1",
+      "last_updated": "1761423210",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/ej7maaren7d"
+      }
+    },
+    "4": {
+      "title": "Leçon 4: Antoinette and Auguste",
+      "volume": "1",
+      "last_updated": "1761423291",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/bp45mmeoqy5"
+      }
+    },
+    "4.5": {
+      "title": "Appendices",
+      "volume": "1",
+      "last_updated": "1761423385",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/na7kaaqkb48"
+      }
+    }
+  }
+}
