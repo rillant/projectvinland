@@ -5,6 +5,14 @@
   "author": "Souryou Fuyumi",
   "cover": "https://mangadex.org/covers/fb8d5379-c614-49f1-8ce6-1266b41337b8/7c641729-a409-41f6-88bb-95ca98d2d916.jpg",
   "chapters": {
+    "1": {
+      "title": "Leçon 1: The bride from Vienna",
+      "volume": "1",
+      "last_updated": "1761467627",
+      "groups": {
+        "The Rose Garden": "/proxy/api/imgchest/chapter/qb4z55zng4j"
+      }
+    },
     "2": {
       "title": "Leçon 2: The Wedding of the Century",
       "volume": "1",
