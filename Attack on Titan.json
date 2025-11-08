@@ -1,0 +1,17 @@
+{
+  "title": "Attack on Titan (Project Vinland)",
+  "description": "",
+  "artist": "Hajime Isayama",
+  "author": "Hajime Isayama",
+  "cover": "https://mangadex.org/covers/304ceac3-8cdb-4fe7-acf7-2b6ff7a60613/628b5f74-4692-47d6-8fe3-75813714b433.jpg",
+  "chapters": {
+    "139.5": {
+      "title": "139.5",
+      "volume": "35",
+      "last_updated": "1762624130",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/qe4gm3zgo4j"
+      }
+    }
+  }
+}
