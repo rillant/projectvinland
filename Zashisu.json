@@ -1,0 +1,49 @@
+{
+  "title": "Zashisu (Project Vinland)",
+  "description": "One day, junior high school teacher Yamauchi Umi sees a news report about a murder case. The murderer is Suzuki Yumi, a classmate from junior high school.\n\nA few days later, Yamauchi's girlfriend, Tamahuri Yagisawa, a rookie editor of literary books, finds a work that closely resembles the murder in a novel that was unsuccessful in a public contest. The author's name is Haruto Saeki. Soon, just like in the novel, an invitation to a class reunion arrives for an old friend...",
+  "artist": "Morita Masanori",
+  "author": "Morita Masanori",
+  "cover": "https://mangadex.org/covers/3e36f4b5-37f3-4413-8aa4-67dd80275972/82fdefd7-6d5e-44ac-a719-1991c1be0ad6.jpg",
+  "chapters": {
+    "1": {
+      "title": "The invitational letter",
+      "volume": "1",
+      "last_updated": "1688314647",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/ljyqawq5n72"
+      }
+    },
+    "2": {
+      "title": "Hell on earth",
+      "volume": "1",
+      "last_updated": "1691165962",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/wl7laqk6qyx"
+      }
+    },
+    "3": {
+      "title": "A buried memory",
+      "volume": "1",
+      "last_updated": "1707844850",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/lqyedxvwq7d"
+      }
+    },
+    "4": {
+      "title": "The cursed grave",
+      "volume": "1",
+      "last_updated": "1710004922",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/o24a25gd27l"
+      }
+    },
+    "5": {
+      "title": "The next victim",
+      "volume": "2",
+      "last_updated": "1716394989",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/dl7pa3qrp7o"
+      }
+    }
+  }
+}
