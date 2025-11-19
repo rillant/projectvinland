@@ -4,5 +4,198 @@
   "artist": "Souryou Fuyumi",
   "author": "Souryou Fuyumi",
   "cover": "https://cdn.imgchest.com/files/ef956ed05c1d.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Wind of Pisa",
+      "volume": "1",
+      "last_updated": "1763584587",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/5xy2qkxz9yl"
+      }
+    },
+    "2": {
+      "title": "Wild Horse",
+      "volume": "1",
+      "last_updated": "1763584641",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ej7madjmn7d"
+      }
+    },
+    "3": {
+      "title": "Scoundrel",
+      "volume": "1",
+      "last_updated": "1763584697",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/lqyedxw3q7d"
+      }
+    },
+    "4": {
+      "title": "Premonition of a Storm",
+      "volume": "1",
+      "last_updated": "1763584745",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/bp45mgjxqy5"
+      }
+    },
+    "5": {
+      "title": "Ripe Fruit",
+      "volume": "1",
+      "last_updated": "1763584917",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/na7kaj2zb48"
+      }
+    },
+    "6": {
+      "title": "The Opposite Bank (Part 1)",
+      "volume": "1",
+      "last_updated": "1763584972",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ljyqawm9n72"
+      }
+    },
+    "7": {
+      "title": "The Opposite Bank (Part 2)",
+      "volume": "2",
+      "last_updated": "1763585012",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9rydqk3zl4k"
+      }
+    },
+    "8": {
+      "title": "Ruler",
+      "volume": "2",
+      "last_updated": "1763585063",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/lqyedxwvq7d"
+      }
+    },
+    "9": {
+      "title": "The Vatican's Demon",
+      "volume": "2",
+      "last_updated": "1763585109",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/bp45mgj8qy5"
+      }
+    },
+    "10": {
+      "title": "Divine Comedy",
+      "volume": "2",
+      "last_updated": "1763585145",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/5xy2qkxlzyl"
+      }
+    },
+    "11": {
+      "title": "One Chosen by God",
+      "volume": "2",
+      "last_updated": "1763585172",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/n87w9a8rxyx"
+      }
+    },
+    "12": {
+      "title": "Light and Darkness",
+      "volume": "2",
+      "last_updated": "1763585332",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/bp45mgjdny5"
+      }
+    },
+    "13": {
+      "title": "Primavera",
+      "volume": "2",
+      "last_updated": "1763585365",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ne7blarxmy5"
+      }
+    },
+    "14": {
+      "title": "Maestro",
+      "volume": "2",
+      "last_updated": "1763585432",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ej7madjk97d"
+      }
+    },
+    "15": {
+      "title": "Beneath the Surface",
+      "volume": "3",
+      "last_updated": "1763585470",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/bp45mgjzny5"
+      }
+    },
+    "16": {
+      "title": "Collision",
+      "volume": "3",
+      "last_updated": "1763585493",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ne7blarvmy5"
+      }
+    },
+    "17": {
+      "title": "Minotaur",
+      "volume": "3",
+      "last_updated": "1763585527",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/5xy2qkxa3yl"
+      }
+    },
+    "18": {
+      "title": "Foreign Culture",
+      "volume": "3",
+      "last_updated": "1763585562",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/vj4jel5k978"
+      }
+    },
+    "19": {
+      "title": "Applaudito",
+      "volume": "3",
+      "last_updated": "1763585583",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9rydqk3xa4k"
+      }
+    },
+    "20": {
+      "title": "New World",
+      "volume": "3",
+      "last_updated": "1763585698",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/6eyrae39l4p"
+      }
+    },
+    "21": {
+      "title": "The Outcast",
+      "volume": "3",
+      "last_updated": "1763586062",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ljyqawmrx72"
+      }
+    },
+    "22": {
+      "title": "Shadows",
+      "volume": "3",
+      "last_updated": "1763586374",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/lqyedxwgz7d"
+      }
+    },
+    "23": {
+      "title": "Interplay",
+      "volume": "3",
+      "last_updated": "1763586480",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/qb4z5xl8l4j"
+      }
+    },
+    "24": {
+      "title": "Betrayal",
+      "volume": "3",
+      "last_updated": "1763586506",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/xny8ear5wyb"
+      }
+    }
+  }
 }
