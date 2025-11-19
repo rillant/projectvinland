@@ -1,0 +1,25 @@
+{
+  "title": "DEEP (Project Vinland)",
+  "description": "The story tells about recovery of а treasure from German submarine which sunk at great depths in the end of the Second World War.",
+  "artist": "Ohtagaki Yasuo",
+  "author": "Ohtagaki Yasuo",
+  "cover": "https://mangadex.org/covers/180f67bc-16ba-4172-813a-286d012946c7/4e1a279d-8f4a-4a0b-95fd-64c005e6d9ec.jpg",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": "1633892094",
+      "groups": {
+        "Project Vinland & Jiyuu Manga": "/proxy/api/imgchest/chapter/a846389ng4x"
+      }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "last_updated": "1763582308",
+      "groups": {
+        "Project Vinland & Jiyuu Manga": "/proxy/api/imgchest/chapter/9249269nvyn"
+      }
+    }
+  }
+}
