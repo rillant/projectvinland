@@ -1,609 +1,537 @@
 {
   "title": "Shiori Experience (Project Vinland)",
-  "description": "You can find chapters for Shiori Experience by Osada Yu-Ko and Machida Kazuya translated by scanlation group Project Vinland here.\n\nNote: chapters 1-75 are not listed here as they were not done by us. You can find them on various aggregator sites.\n\nSynopsis: Shiori was once a guitarist in a light music club in high school. But her first live performance was dashed when her brother ran away from home with a lot of debt, to become a musician in Tokyo. A decade later, Shiori is now a high school teacher, leading a boring, uneventful life and paying off the debt… till she runs into the ghost of none other than a famous guitarist Jim-you-know-who. A story of a 27-year-old woman on her way to a music legend begins here.",
+  "description": "You can find chapters for Shiori Experience by Osada Yu-Ko and Machida Kazuya translated by scanlation group Project Vinland here.\n\nSynopsis: Shiori was once a guitarist in a light music club in high school. But her first live performance was dashed when her brother ran away from home with a lot of debt, to become a musician in Tokyo. A decade later, Shiori is now a high school teacher, leading a boring, uneventful life and paying off the debt… till she runs into the ghost of none other than a famous guitarist Jim-you-know-who. A story of a 27-year-old woman on her way to a music legend begins here.",
   "artist": "Osada Yu-Ko",
   "author": "Machida Kazuya",
   "cover": "https://mangadex.org/covers/d58abdf4-9268-41d8-9920-f8fe8858a173/36ecf0c3-9065-44af-a7a5-65ec8d11e4be.jpg",
   "chapters": {
-    "04": {
-      "title": "Woodstock",
-      "last_updated": "1764615245",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/ljyqkdqrny2"
-      },
-      "volume": "02"
-    },
-    "02": {
-      "title": "Cross Road",
-      "last_updated": "1764615246",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/6eyrnd2lg7p"
-      },
-      "volume": "01"
-    },
-    "03": {
-      "title": "JAM",
-      "last_updated": "1764615252",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/9ryd2pzrl4k"
-      },
-      "volume": "01"
-    },
-    "01": {
-      "title": "Jack In",
-      "last_updated": "1764615270",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/ej7me2n8nyd"
-      },
-      "volume": "01"
-    },
-    "06": {
-      "title": "COPY",
-      "last_updated": "1764615272",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/xny86lzm54b"
-      },
-      "volume": "02"
-    },
-    "05": {
-      "title": "Live House",
-      "last_updated": "1764615273",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/qb4zpk3ndyj"
-      },
-      "volume": "02"
-    },
-    "07": {
-      "title": "Lesson",
-      "last_updated": "1764615273",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/o24a6kgj2yl"
-      },
-      "volume": "02"
-    },
-    "11": {
-      "title": "JAM2",
-      "last_updated": "1764615297",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/md7objl8r4p"
-      },
-      "volume": "03"
-    },
     "10": {
       "title": "Cigarette",
+      "volume": "03",
       "last_updated": "1764615300",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/dl7pnzq8pyo"
-      },
-      "volume": "03"
+      }
     },
-    "09": {
-      "title": "Trial",
-      "last_updated": "1764615302",
+    "11": {
+      "title": "JAM2",
+      "volume": "03",
+      "last_updated": "1764615297",
       "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/ne7b6xpqjy5"
-      },
-      "volume": "03"
-    },
-    "08": {
-      "title": "ORIENTATION",
-      "last_updated": "1764615309",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/9p4nzl28m4n"
-      },
-      "volume": "02"
+        "CAT": "/proxy/api/imgchest/chapter/md7objl8r4p"
+      }
     },
     "12": {
       "title": "Cuckoo",
+      "volume": "03",
       "last_updated": "1764615323",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/5xy2ole294l"
-      },
-      "volume": "03"
-    },
-    "14": {
-      "title": "27",
-      "last_updated": "1764615331",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/vj4jmw38x48"
-      },
-      "volume": "04"
-    },
-    "15": {
-      "title": "Joji",
-      "last_updated": "1764615337",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/ljyqkdq2ny2"
-      },
-      "volume": "04"
+      }
     },
     "13": {
       "title": "Daydream",
+      "volume": "03",
       "last_updated": "1764615340",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/wl7lwmkoq4x"
-      },
-      "volume": "03"
+      }
+    },
+    "14": {
+      "title": "27",
+      "volume": "04",
+      "last_updated": "1764615331",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/vj4jmw38x48"
+      }
+    },
+    "15": {
+      "title": "Joji",
+      "volume": "04",
+      "last_updated": "1764615337",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/ljyqkdq2ny2"
+      }
     },
     "16": {
       "title": "Score",
+      "volume": "04",
       "last_updated": "1764615355",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/5xy2oleqz4l"
-      },
-      "volume": "04"
+      }
     },
     "17": {
       "title": "Live",
+      "volume": "04",
       "last_updated": "1764615357",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/vj4jmw3e348"
-      },
-      "volume": "04"
+      }
     },
     "18": {
       "title": "Emotion",
+      "volume": "04",
       "last_updated": "1764615369",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/ljyqkdqady2"
-      },
-      "volume": "04"
+      }
     },
     "19": {
       "title": "Self Study",
+      "volume": "05",
       "last_updated": "1764615375",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/9ryd2pzqa4k"
-      },
-      "volume": "05"
-    },
-    "21": {
-      "title": "Satsuki Meguro",
-      "last_updated": "1764615380",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/n87wnrv9x7x"
-      },
-      "volume": "05"
+      }
     },
     "20": {
       "title": "Hatsunori Daiba",
+      "volume": "05",
       "last_updated": "1764615384",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/6eyrnd2ax7p"
-      },
-      "volume": "05"
+      }
+    },
+    "21": {
+      "title": "Satsuki Meguro",
+      "volume": "05",
+      "last_updated": "1764615380",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/n87wnrv9x7x"
+      }
     },
     "22": {
       "title": "Shinobu Kawasaki",
+      "volume": "05",
       "last_updated": "1764615391",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/qe4gqrlmq7j"
-      },
-      "volume": "05"
-    },
-    "26": {
-      "title": "-Crossover",
-      "last_updated": "1764615411",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/m9yxngv9p7q"
-      },
-      "volume": "06"
-    },
-    "24": {
-      "title": "Reunion",
-      "last_updated": "1764615413",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/a846ogx3z4x"
-      },
-      "volume": "06"
+      }
     },
     "23": {
       "title": "Shiori Honda",
+      "volume": "05",
       "last_updated": "1764615414",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/o24a6kg2dyl"
-      },
-      "volume": "05"
+      }
+    },
+    "24": {
+      "title": "Reunion",
+      "volume": "06",
+      "last_updated": "1764615413",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/a846ogx3z4x"
+      }
     },
     "25": {
       "title": "Corvette",
+      "volume": "06",
       "last_updated": "1764615415",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/agyvne6xb48"
-      },
-      "volume": "06"
+      }
     },
-    "28": {
-      "title": "Miracle2",
-      "last_updated": "1764615436",
+    "26": {
+      "title": "-Crossover",
+      "volume": "06",
+      "last_updated": "1764615411",
       "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/dl7pnzqa3yo"
-      },
-      "volume": "06"
-    },
-    "29": {
-      "title": "New Song",
-      "last_updated": "1764615443",
-      "groups": {
-        "CAT": "/proxy/api/imgchest/chapter/md7objla24p"
-      },
-      "volume": "07"
+        "CAT": "/proxy/api/imgchest/chapter/m9yxngv9p7q"
+      }
     },
     "27": {
       "title": "Miracle",
+      "volume": "06",
       "last_updated": "1764615443",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/ne7b6xplmy5"
-      },
-      "volume": "06"
+      }
+    },
+    "28": {
+      "title": "Miracle2",
+      "volume": "06",
+      "last_updated": "1764615436",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/dl7pnzqa3yo"
+      }
+    },
+    "29": {
+      "title": "New Song",
+      "volume": "07",
+      "last_updated": "1764615443",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/md7objla24p"
+      }
     },
     "30": {
       "title": "Talk",
+      "volume": "07",
       "last_updated": "1764615453",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/na7kkwra378"
-      },
-      "volume": "07"
+      }
     },
     "31": {
       "title": "All For One",
+      "volume": "07",
       "last_updated": "1764615468",
       "groups": {
         "CAT": "/proxy/api/imgchest/chapter/ljyqkdqkdy2"
-      },
-      "volume": "07"
-    },
-    "35": {
-      "title": "No Name",
-      "last_updated": "1764615529",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/o24a6kg6dyl"
-      },
-      "volume": "08"
-    },
-    "34": {
-      "title": "Revive",
-      "last_updated": "1764615533",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/bp45od8on75"
-      },
-      "volume": "08"
+      }
     },
     "32": {
       "title": "One For All",
+      "volume": "07",
       "last_updated": "1764615533",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/a846ogxoz4x"
-      },
-      "volume": "07"
+      }
     },
     "33": {
       "title": "Isuzu Akane",
+      "volume": "08",
       "last_updated": "1764615543",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/xny86lz624b"
-      },
-      "volume": "08"
+      }
+    },
+    "34": {
+      "title": "Revive",
+      "volume": "08",
+      "last_updated": "1764615533",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/bp45od8on75"
+      }
+    },
+    "35": {
+      "title": "No Name",
+      "volume": "08",
+      "last_updated": "1764615529",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/o24a6kg6dyl"
+      }
     },
     "36": {
       "title": "Sound",
+      "volume": "08",
       "last_updated": "1764615560",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/9p4nzl2zb4n"
-      },
-      "volume": "08"
-    },
-    "38": {
-      "title": "Sax",
-      "last_updated": "1764615568",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/dl7pnzqn3yo"
-      },
-      "volume": "09"
+      }
     },
     "37": {
       "title": "Session",
+      "volume": "09",
       "last_updated": "1764615569",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/ne7b6xp6my5"
-      },
-      "volume": "09"
+      }
+    },
+    "38": {
+      "title": "Sax",
+      "volume": "09",
+      "last_updated": "1764615568",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/dl7pnzqn3yo"
+      }
     },
     "39": {
       "title": "Audition",
+      "volume": "09",
       "last_updated": "1764615574",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/na7kkwrk378"
-      },
-      "volume": "09"
-    },
-    "42": {
-      "title": "Accident",
-      "last_updated": "1764615588",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/ljyqkdq5dy2"
-      },
-      "volume": "10"
-    },
-    "41": {
-      "title": "News",
-      "last_updated": "1764615591",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/vj4jmw3n348"
-      },
-      "volume": "10"
+      }
     },
     "40": {
       "title": "Mitsuoka Neon",
+      "volume": "09",
       "last_updated": "1764615601",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/wl7lwmk5x4x"
-      },
-      "volume": "09"
+      }
+    },
+    "41": {
+      "title": "News",
+      "volume": "10",
+      "last_updated": "1764615591",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/vj4jmw3n348"
+      }
+    },
+    "42": {
+      "title": "Accident",
+      "volume": "10",
+      "last_updated": "1764615588",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/ljyqkdq5dy2"
+      }
     },
     "43": {
       "title": "Hell",
+      "volume": "10",
       "last_updated": "1764615606",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/9ryd2pzna4k"
-      },
-      "volume": "10"
+      }
     },
     "44": {
       "title": "Rolling Stone",
+      "volume": "10",
       "last_updated": "1764615616",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/ej7me2nv9yd"
-      },
-      "volume": "10"
+      }
     },
     "45": {
       "title": "Festa",
+      "volume": "10",
       "last_updated": "1764615621",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/pg73ojp6g7r"
-      },
-      "volume": "10"
+      }
     },
     "46": {
       "title": "JACK in!",
+      "volume": "10",
       "last_updated": "1764615641",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/n87wnrvqx7x"
-      },
-      "volume": "10"
+      }
     },
     "47": {
       "title": "Open",
+      "volume": "11",
       "last_updated": "1764615642",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/xny86lz224b"
-      },
-      "volume": "11"
+      }
     },
     "48": {
       "title": "BLACK BUS",
+      "volume": "11",
       "last_updated": "1764615642",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/a846ogx6z4x"
-      },
-      "volume": "11"
+      }
     },
     "49": {
       "title": "Prince and Homeless",
+      "volume": "11",
       "last_updated": "1764615644",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/m9yxngvdp7q"
-      },
-      "volume": "11"
+      }
     },
     "50": {
       "title": "Good Student and Bad Student",
+      "volume": "11",
       "last_updated": "1764615668",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/ne7b6xpnmy5"
-      },
-      "volume": "11"
-    },
-    "52": {
-      "title": "The First Audition",
-      "last_updated": "1764615672",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/md7objl524p"
-      },
-      "volume": "12"
-    },
-    "53": {
-      "title": "Top News~",
-      "last_updated": "1764615677",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/na7kkwr5378"
-      },
-      "volume": "12"
+      }
     },
     "51": {
       "title": "Story",
+      "volume": "11",
       "last_updated": "1764615696",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/dl7pnzq53yo"
-      },
-      "volume": "11"
+      }
     },
-    "56": {
-      "title": "Introduction",
-      "last_updated": "1764615706",
+    "52": {
+      "title": "The First Audition",
+      "volume": "12",
+      "last_updated": "1764615672",
       "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/9ryd2pzea4k"
-      },
-      "volume": "13"
+        "#dropout": "/proxy/api/imgchest/chapter/md7objl524p"
+      }
+    },
+    "53": {
+      "title": "Top News~",
+      "volume": "12",
+      "last_updated": "1764615677",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/na7kkwr5378"
+      }
     },
     "54": {
       "title": "Spring, Summer, Autumn, Winter",
+      "volume": "12",
       "last_updated": "1764615707",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/wl7lwmk6x4x"
-      },
-      "volume": "12"
+      }
     },
     "55": {
       "title": "Final Stop",
+      "volume": "12",
       "last_updated": "1764615710",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/vj4jmw36348"
-      },
-      "volume": "12"
+      }
+    },
+    "56": {
+      "title": "Introduction",
+      "volume": "13",
+      "last_updated": "1764615706",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/9ryd2pzea4k"
+      }
     },
     "57": {
       "title": "Track 1",
+      "volume": "13",
       "last_updated": "1764615717",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/6eyrnd26x7p"
-      },
-      "volume": "13"
+      }
     },
     "58": {
       "title": "Track 2",
+      "volume": "13",
       "last_updated": "1764615728",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/pg73ojp8g7r"
-      },
-      "volume": "13"
+      }
     },
     "59": {
       "title": "Track 3",
+      "volume": "13",
       "last_updated": "1764615729",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/n87wnrvjx7x"
-      },
-      "volume": "13"
-    },
-    "63": {
-      "title": "Giant Killing",
-      "last_updated": "1764615753",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/agyvne6lb48"
-      },
-      "volume": "14"
-    },
-    "61": {
-      "title": "TPOKZ",
-      "last_updated": "1764615754",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/qe4gqrl8q7j"
-      },
-      "volume": "14"
+      }
     },
     "60": {
       "title": "Track 4",
+      "volume": "13",
       "last_updated": "1764615756",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/lqyelpvzm4d"
-      },
-      "volume": "13"
+      }
+    },
+    "61": {
+      "title": "TPOKZ",
+      "volume": "14",
+      "last_updated": "1764615754",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/qe4gqrl8q7j"
+      }
     },
     "62": {
       "title": "Mercedes-Benz",
+      "volume": "14",
       "last_updated": "1764615757",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/o24a6kgmdyl"
-      },
-      "volume": "14"
+      }
     },
-    "65": {
-      "title": "New York",
-      "last_updated": "1764615782",
+    "63": {
+      "title": "Giant Killing",
+      "volume": "14",
+      "last_updated": "1764615753",
       "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/na7kkwrn378"
-      },
-      "volume": "14"
-    },
-    "67": {
-      "title": "Glocks",
-      "last_updated": "1764615786",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/wl7lwmklx4x"
-      },
-      "volume": "15"
-    },
-    "66": {
-      "title": "Summer Tour",
-      "last_updated": "1764615787",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/5xy2olexz4l"
-      },
-      "volume": "15"
+        "#dropout": "/proxy/api/imgchest/chapter/agyvne6lb48"
+      }
     },
     "64": {
       "title": "Giant Killing Killers",
+      "volume": "14",
       "last_updated": "1764615794",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/md7objlv24p"
-      },
-      "volume": "14"
+      }
+    },
+    "65": {
+      "title": "New York",
+      "volume": "14",
+      "last_updated": "1764615782",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/na7kkwrn378"
+      }
+    },
+    "66": {
+      "title": "Summer Tour",
+      "volume": "15",
+      "last_updated": "1764615787",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/5xy2olexz4l"
+      }
+    },
+    "67": {
+      "title": "Glocks",
+      "volume": "15",
+      "last_updated": "1764615786",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/wl7lwmklx4x"
+      }
     },
     "68": {
       "title": "Cross Talk",
+      "volume": "15",
       "last_updated": "1764615800",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/ljyqkdqmdy2"
-      },
-      "volume": "15"
+      }
     },
     "69": {
       "title": "God see you again",
+      "volume": "15",
       "last_updated": "1764615803",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/5xy2olex34l"
-      },
-      "volume": "15"
-    },
-    "71": {
-      "title": "Master Piece",
-      "last_updated": "1764615816",
-      "groups": {
-        "#dropout": "/proxy/api/imgchest/chapter/vj4jmw35948"
-      },
-      "volume": "15"
+      }
     },
     "70": {
       "title": "Message",
+      "volume": "15",
       "last_updated": "1764615824",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/wl7lwmkl34x"
-      },
-      "volume": "15"
+      }
+    },
+    "71": {
+      "title": "Master Piece",
+      "volume": "15",
+      "last_updated": "1764615816",
+      "groups": {
+        "#dropout": "/proxy/api/imgchest/chapter/vj4jmw35948"
+      }
     },
     "72": {
       "title": "Aftermath",
+      "volume": "16",
       "last_updated": "1764615829",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/ljyqkdqmxy2"
-      },
-      "volume": "16"
+      }
     },
     "73": {
       "title": "Jimi Hendrix",
+      "volume": "16",
       "last_updated": "1764615833",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/9ryd2pz364k"
-      },
-      "volume": "16"
+      }
     },
     "74": {
       "title": "Confession",
+      "volume": "16",
       "last_updated": "1764615846",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/6eyrnd23l7p"
-      },
-      "volume": "16"
+      }
     },
     "75": {
       "title": "Last Concert",
+      "volume": "16",
       "last_updated": "1764615881",
       "groups": {
         "#dropout": "/proxy/api/imgchest/chapter/ej7me2njayd"
-      },
-      "volume": "16"
+      }
     },
     "76": {
       "title": "Endless Journey",
@@ -659,6 +587,78 @@
       "last_updated": "1763737039",
       "groups": {
         "Project Vinland": "/proxy/api/imgchest/chapter/qb4z5g85g4j"
+      }
+    },
+    "04": {
+      "title": "Woodstock",
+      "volume": "02",
+      "last_updated": "1764615245",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/ljyqkdqrny2"
+      }
+    },
+    "02": {
+      "title": "Cross Road",
+      "volume": "01",
+      "last_updated": "1764615246",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/6eyrnd2lg7p"
+      }
+    },
+    "03": {
+      "title": "JAM",
+      "volume": "01",
+      "last_updated": "1764615252",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/9ryd2pzrl4k"
+      }
+    },
+    "01": {
+      "title": "Jack In",
+      "volume": "01",
+      "last_updated": "1764615270",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/ej7me2n8nyd"
+      }
+    },
+    "06": {
+      "title": "COPY",
+      "volume": "02",
+      "last_updated": "1764615272",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/xny86lzm54b"
+      }
+    },
+    "05": {
+      "title": "Live House",
+      "volume": "02",
+      "last_updated": "1764615273",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/qb4zpk3ndyj"
+      }
+    },
+    "07": {
+      "title": "Lesson",
+      "volume": "02",
+      "last_updated": "1764615273",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/o24a6kgj2yl"
+      }
+    },
+    "09": {
+      "title": "Trial",
+      "volume": "03",
+      "last_updated": "1764615302",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/ne7b6xpqjy5"
+      }
+    },
+    "08": {
+      "title": "ORIENTATION",
+      "volume": "02",
+      "last_updated": "1764615309",
+      "groups": {
+        "CAT": "/proxy/api/imgchest/chapter/9p4nzl28m4n"
       }
     }
   }
