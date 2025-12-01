@@ -276,6 +276,110 @@
       "groups": {
         "ETC": "/proxy/api/imgchest/chapter/dl7pnjlq6yo"
       }
+    },
+    "35": {
+      "title": "Premonition",
+      "volume": "5",
+      "last_updated": "1764611937",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ne7b6xw6my5"
+      }
+    },
+    "36": {
+      "title": "Trap",
+      "volume": "5",
+      "last_updated": "1764611973",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/vj4jmwdn348"
+      }
+    },
+    "37": {
+      "title": "What Must Be Done",
+      "volume": "5",
+      "last_updated": "1764611999",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ej7me2mv9yd"
+      }
+    },
+    "38": {
+      "title": "Souvenir of an Adventure",
+      "volume": "5",
+      "last_updated": "1764612031",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/n87wnr6qx7x"
+      }
+    },
+    "39": {
+      "title": "Heavy or Light Armor",
+      "volume": "5",
+      "last_updated": "1764612063",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/n87wnr6qx7x"
+      }
+    },
+    "40": {
+      "title": "Southern Army",
+      "volume": "5",
+      "last_updated": "1764612096",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ne7b6xwnmy5"
+      }
+    },
+    "41": {
+      "title": "Mock Battle (Part 1)",
+      "volume": "5",
+      "last_updated": "1764612126",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/vj4jmwd6948"
+      }
+    },
+    "42": {
+      "title": "Mock Battle (Part 2)",
+      "volume": "5",
+      "last_updated": "1764612161",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/qb4zpk9rlyj"
+      }
+    },
+    "43": {
+      "title": "Mock Battle (Part 3)",
+      "volume": "5",
+      "last_updated": "1764612198",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/vj4jmwd5948"
+      }
+    },
+    "44": {
+      "title": "Blue Skies",
+      "volume": "5",
+      "last_updated": "1764612235",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ej7me2mjayd"
+      }
+    },
+    "45": {
+      "title": "Discord",
+      "volume": "6",
+      "last_updated": "1764612273",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/qb4zpk9llyj"
+      }
+    },
+    "46": {
+      "title": "The Unseen Enemy",
+      "volume": "6",
+      "last_updated": "1764612335",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/a846ogaq24x"
+      }
+    },
+    "47": {
+      "title": "To Each His Own Darkness",
+      "volume": "6",
+      "last_updated": "1764612376",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/n87wnr62q7x"
+      }
     }
   }
 }
