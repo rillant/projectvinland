@@ -1,857 +1,857 @@
 {
   "title": "Cesare",
-  "description": "You can find chapters for Cesare by Souryou Fuyumi translated by scanlation group ETC and Project Vinland here.\\n\\nSynopsis: Bookish and naive, Angelo da Canossa is unprepared for life as a student in a university that hums with tension and intrigue in Renaissance Italy. Will his innocence remain intact when a chance encounter with the charismatic Cesare draws him ever deeper into the darker side of the Renaissance?",
+  "description": "You can find chapters for Cesare by Souryou Fuyumi translated by scanlation group ETC and Project Vinland here.\n\nSynopsis: Bookish and naive, Angelo da Canossa is unprepared for life as a student in a university that hums with tension and intrigue in Renaissance Italy. Will his innocence remain intact when a chance encounter with the charismatic Cesare draws him ever deeper into the darker side of the Renaissance?",
   "artist": "Souryou Fuyumi",
   "author": "Souryou Fuyumi",
   "cover": "https://cdn.imgchest.com/files/ef956ed05c1d.jpg",
   "chapters": {
-    "003": {
-      "title": "Scoundrel",
-      "last_updated": "1764614069",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/m9yxngvkm7q"
-      },
-      "volume": "01"
-    },
-    "004": {
-      "title": "Premonition of a Storm",
-      "last_updated": "1764614071",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/agyvne6dw48"
-      },
-      "volume": "01"
-    },
-    "001": {
-      "title": "Wind of Pisa",
-      "last_updated": "1764614071",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/o24a6kgpgyl"
-      },
-      "volume": "01"
-    },
-    "002": {
-      "title": "Wild Horse",
-      "last_updated": "1764614074",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/a846ogxag4x"
-      },
-      "volume": "01"
-    },
-    "005": {
-      "title": "Ripe Fruit",
-      "last_updated": "1764614081",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/dl7pnzqj8yo"
-      },
-      "volume": "01"
-    },
-    "006": {
-      "title": "The Opposite Bank  (Part 1)",
-      "last_updated": "1764614088",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/na7kkwrzk78"
-      },
-      "volume": "01"
-    },
-    "007": {
-      "title": "The Opposite Bank  (Part 2)",
-      "last_updated": "1764614094",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/md7objlga4p"
-      },
-      "volume": "02"
-    },
-    "009": {
-      "title": "The Vatican's Demon",
-      "last_updated": "1764614099",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/wl7lwmkx64x"
-      },
-      "volume": "02"
-    },
-    "008": {
-      "title": "Ruler",
-      "last_updated": "1764614101",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/5xy2olepn4l"
-      },
-      "volume": "02"
-    },
-    "010": {
-      "title": "Divine Comedy",
-      "last_updated": "1764614108",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/ljyqkdq9ey2"
-      },
-      "volume": "02"
-    },
-    "011": {
-      "title": "One Chosen by God",
-      "last_updated": "1764614111",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/5xy2olepj4l"
-      },
-      "volume": "02"
-    },
-    "012": {
-      "title": "Light and Darkness",
-      "last_updated": "1764614116",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/wl7lwmkxp4x"
-      },
-      "volume": "02"
-    },
-    "013": {
-      "title": "Primavera",
-      "last_updated": "1764614117",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/vj4jmw3d248"
-      },
-      "volume": "02"
-    },
-    "017": {
-      "title": "Minotaur",
-      "last_updated": "1764614131",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/pg73ojp9z7r"
-      },
-      "volume": "03"
-    },
-    "014": {
-      "title": "Maestro",
-      "last_updated": "1764614131",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/9ryd2pz5w4k"
-      },
-      "volume": "02"
-    },
-    "016": {
-      "title": "Collision",
-      "last_updated": "1764614133",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/ej7me2nmbyd"
-      },
-      "volume": "03"
-    },
-    "015": {
-      "title": "Beneath the Surface",
-      "last_updated": "1764614133",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/6eyrnd2ge7p"
-      },
-      "volume": "03"
-    },
-    "018": {
-      "title": "Foreign Culture",
-      "last_updated": "1764614143",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/n87wnrvvz7x"
-      },
-      "volume": "03"
-    },
-    "019": {
-      "title": "Applaudito",
-      "last_updated": "1764614144",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/lqyelpvv34d"
-      },
-      "volume": "03"
-    },
-    "020": {
-      "title": "New World",
-      "last_updated": "1764614145",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/qb4zpk333yj"
-      },
-      "volume": "03"
-    },
-    "021": {
-      "title": "The Outcast",
-      "last_updated": "1764614146",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/qe4gqrllr7j"
-      },
-      "volume": "03"
-    },
-    "023": {
-      "title": "Interplay",
-      "last_updated": "1764614158",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/o24a6kgg3yl"
-      },
-      "volume": "03"
-    },
-    "022": {
-      "title": "Shadows",
-      "last_updated": "1764614160",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/bp45od88275"
-      },
-      "volume": "03"
-    },
-    "024": {
-      "title": "Betrayal",
-      "last_updated": "1764614161",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/a846ogxxw4x"
-      },
-      "volume": "03"
-    },
-    "025": {
-      "title": "Lucrezia",
-      "last_updated": "1764614169",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/agyvne66948"
-      },
-      "volume": "04"
-    },
-    "026": {
-      "title": "Siblings",
-      "last_updated": "1764614171",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/m9yxngvv37q"
-      },
-      "volume": "04"
-    },
-    "027": {
-      "title": "Promise",
-      "last_updated": "1764614172",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/9249kjaa2yn"
-      },
-      "volume": "04"
-    },
-    "028": {
-      "title": "Heir",
-      "last_updated": "1764614177",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/9p4nzl22z4n"
-      },
-      "volume": "04"
-    },
-    "029": {
-      "title": "Spark",
-      "last_updated": "1764614185",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/ne7b6xppny5"
-      },
-      "volume": "04"
-    },
-    "030": {
-      "title": "An Elegant Melody",
-      "last_updated": "1764614187",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/dl7pnzqq6yo"
-      },
-      "volume": "04"
-    },
-    "031": {
-      "title": "Wisdom And Reason",
-      "last_updated": "1764614189",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/md7objlld4p"
-      },
-      "volume": "04"
-    },
-    "032": {
-      "title": "Adventure",
-      "last_updated": "1764614190",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/5xy2oleej4l"
-      },
-      "volume": "04"
-    },
-    "033": {
-      "title": "Festa",
-      "last_updated": "1764614198",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/wl7lwmkkp4x"
-      },
-      "volume": "04"
-    },
-    "034": {
-      "title": "Shadow",
-      "last_updated": "1764614201",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/ljyqkdqqoy2"
-      },
-      "volume": "04"
-    },
-    "036": {
-      "title": "Trap",
-      "last_updated": "1764614201",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/6eyrnd22e7p"
-      },
-      "volume": "05"
-    },
-    "037": {
-      "title": "What Must Be Done",
-      "last_updated": "1764614209",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/ej7me2nnbyd"
-      },
-      "volume": "05"
-    },
-    "035": {
-      "title": "Premonition",
-      "last_updated": "1764614209",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/9ryd2pzzw4k"
-      },
-      "volume": "05"
-    },
-    "038": {
-      "title": "Souvenir of an Adventure",
-      "last_updated": "1764614212",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/n87wnrvrz7x"
-      },
-      "volume": "05"
-    },
-    "039": {
-      "title": "Heavy or Light Armor",
-      "last_updated": "1764614215",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/lqyelpvp34d"
-      },
-      "volume": "05"
-    },
-    "040": {
-      "title": "Southern Army",
-      "last_updated": "1764614221",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/qe4gqrlrr7j"
-      },
-      "volume": "05"
-    },
-    "041": {
-      "title": "Mock Battle (Part 1)",
-      "last_updated": "1764614225",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/xny86lzlo4b"
-      },
-      "volume": "05"
-    },
-    "043": {
-      "title": "Mock Battle (Part 3)",
-      "last_updated": "1764614231",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/o24a6kgk3yl"
-      },
-      "volume": "05"
-    },
-    "042": {
-      "title": "Mock Battle (Part 2)",
-      "last_updated": "1764614231",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/bp45od8d275"
-      },
-      "volume": "05"
-    },
-    "044": {
-      "title": "Blue Skies",
-      "last_updated": "1764614239",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/a846ogxgw4x"
-      },
-      "volume": "05"
-    },
-    "047": {
-      "title": "To Each His Own Darkness",
-      "last_updated": "1764614243",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/9249kjaj2yn"
-      },
-      "volume": "06"
-    },
-    "046": {
-      "title": "The Unseen Enemy",
-      "last_updated": "1764614243",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/m9yxngvg37q"
-      },
-      "volume": "06"
-    },
-    "045": {
-      "title": "Discord",
-      "last_updated": "1764614249",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/agyvne6e948"
-      },
-      "volume": "06"
-    },
-    "048": {
-      "title": "O Lord. Let my Soul",
-      "last_updated": "1764614257",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/9p4nzl2lz4n"
-      },
-      "volume": "06"
-    },
-    "050": {
-      "title": "The Two Juans",
-      "last_updated": "1764614258",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/md7objljd4p"
-      },
-      "volume": "06"
-    },
-    "049": {
-      "title": "Arancia",
-      "last_updated": "1764614260",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/dl7pnzqz6yo"
-      },
-      "volume": "06"
-    },
-    "051": {
-      "title": "A Modicum of Pride",
-      "last_updated": "1764614261",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/na7kkwrwq78"
-      },
-      "volume": "06"
-    },
-    "052": {
-      "title": "Admiration",
-      "last_updated": "1764614269",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/wl7lwmkmp4x"
-      },
-      "volume": "06"
-    },
-    "053": {
-      "title": "Sworn Allies",
-      "last_updated": "1764614273",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/vj4jmw3w248"
-      },
-      "volume": "06"
-    },
-    "055": {
-      "title": "The Inquirer",
-      "last_updated": "1764614275",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/9ryd2pzpw4k"
-      },
-      "volume": "07"
-    },
-    "054": {
-      "title": "Holy Night",
-      "last_updated": "1764614283",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/ljyqkdqdoy2"
-      },
-      "volume": "07"
-    },
-    "057": {
-      "title": "Canossa",
-      "last_updated": "1764614286",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/pg73ojpjz7r"
-      },
-      "volume": "07"
-    },
-    "056": {
-      "title": "The Two Sons",
-      "last_updated": "1764614287",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/6eyrnd2de7p"
-      },
-      "volume": "07"
-    },
-    "058": {
-      "title": "Whose Who Face Each Other",
-      "last_updated": "1764614290",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/n87wnrvgz7x"
-      },
-      "volume": "07"
-    },
-    "059": {
-      "title": "The One Enthroned",
-      "last_updated": "1764614298",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/qb4zpk3j3yj"
-      },
-      "volume": "07"
-    },
-    "061": {
-      "title": "Saggezza And Valore",
-      "last_updated": "1764614301",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/xny86lzoo4b"
-      },
-      "volume": "07"
-    },
-    "060": {
-      "title": "What God Desires",
-      "last_updated": "1764614305",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/qe4gqrlxr7j"
-      },
-      "volume": "07"
-    },
-    "064": {
-      "title": "Firenze Part 1",
-      "last_updated": "1764614314",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/agyvne6w948"
-      },
-      "volume": "08"
-    },
-    "063": {
-      "title": "Under The Stars",
-      "last_updated": "1764614314",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/a846ogxkw4x"
-      },
-      "volume": "08"
-    },
-    "062": {
-      "title": "Calat Alhambra",
-      "last_updated": "1764614314",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/bp45od8z275"
-      },
-      "volume": "08"
-    },
-    "065": {
-      "title": "Firenze Part 2",
-      "last_updated": "1764614317",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/m9yxngv237q"
-      },
-      "volume": "08"
-    },
-    "066": {
-      "title": "Encounter",
-      "last_updated": "1764614326",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/dl7pnzq96yo"
-      },
-      "volume": "08"
-    },
-    "067": {
-      "title": "Nyx, Goddess of Night",
-      "last_updated": "1764614328",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/9p4nzl2xz4n"
-      },
-      "volume": "08"
-    },
-    "069": {
-      "title": "The One Who Hides in the Darkness",
-      "last_updated": "1764614329",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/md7objlxd4p"
-      },
-      "volume": "08"
-    },
-    "068": {
-      "title": "The Pazzi Conspiracy",
-      "last_updated": "1764614333",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/ne7b6xpvny5"
-      },
-      "volume": "08"
-    },
-    "070": {
-      "title": "Within Grasp",
-      "last_updated": "1764614340",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/5xy2ole3j4l"
-      },
-      "volume": "08"
-    },
-    "071": {
-      "title": "Celebration",
-      "last_updated": "1764614340",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/wl7lwmkrp4x"
-      },
-      "volume": "08"
-    },
-    "073": {
-      "title": "On The Cusp of Chaos",
-      "last_updated": "1764614348",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/9ryd2pzaw4k"
-      },
-      "volume": "09"
-    },
-    "075": {
-      "title": "Sparks",
-      "last_updated": "1764614352",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/pg73ojpwz7r"
-      },
-      "volume": "09"
-    },
-    "072": {
-      "title": "Daughter of Roma",
-      "last_updated": "1764614352",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/ljyqkdqzoy2"
-      },
-      "volume": "09"
-    },
-    "074": {
-      "title": "Denizens of the Vatican",
-      "last_updated": "1764614354",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/ej7me2nkbyd"
-      },
-      "volume": "09"
-    },
-    "077": {
-      "title": "The Holy and the Vulgar",
-      "last_updated": "1764614365",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/n87wnrvez7x"
-      },
-      "volume": "09"
-    },
-    "076": {
-      "title": "Time of Trials",
-      "last_updated": "1764614366",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/lqyelpvq34d"
-      },
-      "volume": "09"
-    },
-    "078": {
-      "title": "To Posterity",
-      "last_updated": "1764614378",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/qb4zpk3w3yj"
-      },
-      "volume": "09"
-    },
-    "079": {
-      "title": "The Path Chosen",
-      "last_updated": "1764614381",
-      "groups": {
-        "ETC": "/proxy/api/imgchest/chapter/qe4gqrl2r7j"
-      },
-      "volume": "09"
-    },
-    "080": {
-      "title": "Milestone",
-      "last_updated": "1764613431",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/9249kjzqayn"
-      },
-      "volume": "09"
-    },
-    "083": {
-      "title": "Graduation",
-      "last_updated": "1764613434",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/m9yxngkok7q"
-      },
-      "volume": "10"
-    },
-    "081": {
-      "title": "Decision",
-      "last_updated": "1764613438",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/ne7b6xwbvy5"
-      },
-      "volume": "09"
-    },
-    "082": {
-      "title": "One Snowy Day",
-      "last_updated": "1764613441",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/9p4nzlebl4n"
-      },
-      "volume": "10"
-    },
-    "084": {
-      "title": "Graduation II",
-      "last_updated": "1764613444",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/md7objgo94p"
-      },
-      "volume": "10"
-    },
-    "085": {
-      "title": "Graduation III",
-      "last_updated": "1764613447",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/na7kkwzbm78"
-      },
-      "volume": "10"
-    },
-    "086": {
-      "title": "Spring is just around the corner",
-      "last_updated": "1764613452",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/5xy2olp684l"
-      },
-      "volume": "10"
-    },
-    "087": {
-      "title": "The Signpost of the Waves",
-      "last_updated": "1764613455",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/ljyqkd9oky2"
-      },
-      "volume": "10"
-    },
-    "089": {
-      "title": "The Sky and the Sea",
-      "last_updated": "1764613458",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/6eyrndgo67p"
-      },
-      "volume": "10"
-    },
-    "088": {
-      "title": "In the Wind",
-      "last_updated": "1764613458",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/9ryd2p5bn4k"
-      },
-      "volume": "10"
-    },
-    "090": {
-      "title": "Young Leaders",
-      "last_updated": "1764613465",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/ej7me2mojyd"
-      },
-      "volume": "10"
-    },
-    "091": {
-      "title": "A new departure [Project Vinland]",
-      "last_updated": "1764613472",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/pg73oj9v37r"
-      },
-      "volume": "10"
-    },
-    "093": {
-      "title": "A Great Star Has Fallen",
-      "last_updated": "1764613485",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/n87wnr6ob7x"
-      },
-      "volume": "11"
-    },
-    "094": {
-      "title": "The Next Generation",
-      "last_updated": "1764613493",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/qb4zpk9ovyj"
-      },
-      "volume": "11"
-    },
-    "092": {
-      "title": "Eternal City",
-      "last_updated": "1764613496",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/lqyelp3bk4d"
-      },
-      "volume": "11"
-    },
-    "095": {
-      "title": "Homecoming",
-      "last_updated": "1764613498",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/qe4gqrdbb7j"
-      },
-      "volume": "11"
-    },
-    "096": {
-      "title": "Banquet",
-      "last_updated": "1764613518",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/xny86lxjd4b"
-      },
-      "volume": "11"
-    },
-    "099": {
-      "title": "The Papal Conclave (1)",
-      "last_updated": "1764613522",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/m9yxngkwk7q"
-      },
-      "volume": "12"
-    },
-    "098": {
-      "title": "Convening",
-      "last_updated": "1764613522",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/agyvnedkz48"
-      },
-      "volume": "12"
-    },
-    "097": {
-      "title": "The Time for Decision",
-      "last_updated": "1764613529",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/a846oga2v4x"
-      },
-      "volume": "12"
-    },
     "100": {
       "title": "The Papal Conclave (2)",
+      "volume": "12",
       "last_updated": "1764613543",
       "groups": {
         "Project Vinland": "/proxy/api/imgchest/chapter/9p4nzle9l4n"
-      },
-      "volume": "12"
+      }
     },
     "101": {
       "title": "The Outcome of the Vote",
+      "volume": "12",
       "last_updated": "1764613554",
       "groups": {
         "Project Vinland": "/proxy/api/imgchest/chapter/ne7b6xwmvy5"
-      },
-      "volume": "12"
+      }
     },
     "102": {
       "title": "Collusion",
+      "volume": "13",
       "last_updated": "1764613558",
       "groups": {
         "Project Vinland": "/proxy/api/imgchest/chapter/dl7pnzj2kyo"
-      },
-      "volume": "13"
-    },
-    "104": {
-      "title": "The Birth of a New Pope",
-      "last_updated": "1764613570",
-      "groups": {
-        "Project Vinland": "/proxy/api/imgchest/chapter/na7kkwz6m78"
-      },
-      "volume": "13"
+      }
     },
     "103": {
       "title": "Morning in the Vatican",
+      "volume": "13",
       "last_updated": "1764613570",
       "groups": {
         "Project Vinland": "/proxy/api/imgchest/chapter/md7objgn94p"
-      },
-      "volume": "13"
+      }
+    },
+    "104": {
+      "title": "The Birth of a New Pope",
+      "volume": "13",
+      "last_updated": "1764613570",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/na7kkwz6m78"
+      }
     },
     "105": {
       "title": "The Scheme",
+      "volume": "13",
       "last_updated": "1764613578",
       "groups": {
         "Project Vinland": "/proxy/api/imgchest/chapter/wl7lwmxvo4x"
-      },
-      "volume": "13"
+      }
     },
     "106": {
       "title": "Reunion",
+      "volume": "13",
       "last_updated": "1764613589",
       "groups": {
         "Project Vinland": "/proxy/api/imgchest/chapter/vj4jmwdae48"
-      },
-      "volume": "13"
+      }
+    },
+    "003": {
+      "title": "Scoundrel",
+      "volume": "01",
+      "last_updated": "1764614069",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/m9yxngvkm7q"
+      }
+    },
+    "004": {
+      "title": "Premonition of a Storm",
+      "volume": "01",
+      "last_updated": "1764614071",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/agyvne6dw48"
+      }
+    },
+    "001": {
+      "title": "Wind of Pisa",
+      "volume": "01",
+      "last_updated": "1764614071",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/o24a6kgpgyl"
+      }
+    },
+    "002": {
+      "title": "Wild Horse",
+      "volume": "01",
+      "last_updated": "1764614074",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/a846ogxag4x"
+      }
+    },
+    "005": {
+      "title": "Ripe Fruit",
+      "volume": "01",
+      "last_updated": "1764614081",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/dl7pnzqj8yo"
+      }
+    },
+    "006": {
+      "title": "The Opposite Bank  (Part 1)",
+      "volume": "01",
+      "last_updated": "1764614088",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/na7kkwrzk78"
+      }
+    },
+    "007": {
+      "title": "The Opposite Bank  (Part 2)",
+      "volume": "02",
+      "last_updated": "1764614094",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/md7objlga4p"
+      }
+    },
+    "009": {
+      "title": "The Vatican's Demon",
+      "volume": "02",
+      "last_updated": "1764614099",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/wl7lwmkx64x"
+      }
+    },
+    "008": {
+      "title": "Ruler",
+      "volume": "02",
+      "last_updated": "1764614101",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/5xy2olepn4l"
+      }
+    },
+    "010": {
+      "title": "Divine Comedy",
+      "volume": "02",
+      "last_updated": "1764614108",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ljyqkdq9ey2"
+      }
+    },
+    "011": {
+      "title": "One Chosen by God",
+      "volume": "02",
+      "last_updated": "1764614111",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/5xy2olepj4l"
+      }
+    },
+    "012": {
+      "title": "Light and Darkness",
+      "volume": "02",
+      "last_updated": "1764614116",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/wl7lwmkxp4x"
+      }
+    },
+    "013": {
+      "title": "Primavera",
+      "volume": "02",
+      "last_updated": "1764614117",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/vj4jmw3d248"
+      }
+    },
+    "017": {
+      "title": "Minotaur",
+      "volume": "03",
+      "last_updated": "1764614131",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/pg73ojp9z7r"
+      }
+    },
+    "014": {
+      "title": "Maestro",
+      "volume": "02",
+      "last_updated": "1764614131",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9ryd2pz5w4k"
+      }
+    },
+    "016": {
+      "title": "Collision",
+      "volume": "03",
+      "last_updated": "1764614133",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ej7me2nmbyd"
+      }
+    },
+    "015": {
+      "title": "Beneath the Surface",
+      "volume": "03",
+      "last_updated": "1764614133",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/6eyrnd2ge7p"
+      }
+    },
+    "018": {
+      "title": "Foreign Culture",
+      "volume": "03",
+      "last_updated": "1764614143",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/n87wnrvvz7x"
+      }
+    },
+    "019": {
+      "title": "Applaudito",
+      "volume": "03",
+      "last_updated": "1764614144",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/lqyelpvv34d"
+      }
+    },
+    "020": {
+      "title": "New World",
+      "volume": "03",
+      "last_updated": "1764614145",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/qb4zpk333yj"
+      }
+    },
+    "021": {
+      "title": "The Outcast",
+      "volume": "03",
+      "last_updated": "1764614146",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/qe4gqrllr7j"
+      }
+    },
+    "023": {
+      "title": "Interplay",
+      "volume": "03",
+      "last_updated": "1764614158",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/o24a6kgg3yl"
+      }
+    },
+    "022": {
+      "title": "Shadows",
+      "volume": "03",
+      "last_updated": "1764614160",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/bp45od88275"
+      }
+    },
+    "024": {
+      "title": "Betrayal",
+      "volume": "03",
+      "last_updated": "1764614161",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/a846ogxxw4x"
+      }
+    },
+    "025": {
+      "title": "Lucrezia",
+      "volume": "04",
+      "last_updated": "1764614169",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/agyvne66948"
+      }
+    },
+    "026": {
+      "title": "Siblings",
+      "volume": "04",
+      "last_updated": "1764614171",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/m9yxngvv37q"
+      }
+    },
+    "027": {
+      "title": "Promise",
+      "volume": "04",
+      "last_updated": "1764614172",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9249kjaa2yn"
+      }
+    },
+    "028": {
+      "title": "Heir",
+      "volume": "04",
+      "last_updated": "1764614177",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9p4nzl22z4n"
+      }
+    },
+    "029": {
+      "title": "Spark",
+      "volume": "04",
+      "last_updated": "1764614185",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ne7b6xppny5"
+      }
+    },
+    "030": {
+      "title": "An Elegant Melody",
+      "volume": "04",
+      "last_updated": "1764614187",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/dl7pnzqq6yo"
+      }
+    },
+    "031": {
+      "title": "Wisdom And Reason",
+      "volume": "04",
+      "last_updated": "1764614189",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/md7objlld4p"
+      }
+    },
+    "032": {
+      "title": "Adventure",
+      "volume": "04",
+      "last_updated": "1764614190",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/5xy2oleej4l"
+      }
+    },
+    "033": {
+      "title": "Festa",
+      "volume": "04",
+      "last_updated": "1764614198",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/wl7lwmkkp4x"
+      }
+    },
+    "034": {
+      "title": "Shadow",
+      "volume": "04",
+      "last_updated": "1764614201",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ljyqkdqqoy2"
+      }
+    },
+    "036": {
+      "title": "Trap",
+      "volume": "05",
+      "last_updated": "1764614201",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/6eyrnd22e7p"
+      }
+    },
+    "037": {
+      "title": "What Must Be Done",
+      "volume": "05",
+      "last_updated": "1764614209",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ej7me2nnbyd"
+      }
+    },
+    "035": {
+      "title": "Premonition",
+      "volume": "05",
+      "last_updated": "1764614209",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9ryd2pzzw4k"
+      }
+    },
+    "038": {
+      "title": "Souvenir of an Adventure",
+      "volume": "05",
+      "last_updated": "1764614212",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/n87wnrvrz7x"
+      }
+    },
+    "039": {
+      "title": "Heavy or Light Armor",
+      "volume": "05",
+      "last_updated": "1764614215",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/lqyelpvp34d"
+      }
+    },
+    "040": {
+      "title": "Southern Army",
+      "volume": "05",
+      "last_updated": "1764614221",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/qe4gqrlrr7j"
+      }
+    },
+    "041": {
+      "title": "Mock Battle (Part 1)",
+      "volume": "05",
+      "last_updated": "1764614225",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/xny86lzlo4b"
+      }
+    },
+    "043": {
+      "title": "Mock Battle (Part 3)",
+      "volume": "05",
+      "last_updated": "1764614231",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/o24a6kgk3yl"
+      }
+    },
+    "042": {
+      "title": "Mock Battle (Part 2)",
+      "volume": "05",
+      "last_updated": "1764614231",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/bp45od8d275"
+      }
+    },
+    "044": {
+      "title": "Blue Skies",
+      "volume": "05",
+      "last_updated": "1764614239",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/a846ogxgw4x"
+      }
+    },
+    "047": {
+      "title": "To Each His Own Darkness",
+      "volume": "06",
+      "last_updated": "1764614243",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9249kjaj2yn"
+      }
+    },
+    "046": {
+      "title": "The Unseen Enemy",
+      "volume": "06",
+      "last_updated": "1764614243",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/m9yxngvg37q"
+      }
+    },
+    "045": {
+      "title": "Discord",
+      "volume": "06",
+      "last_updated": "1764614249",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/agyvne6e948"
+      }
+    },
+    "048": {
+      "title": "O Lord. Let my Soul",
+      "volume": "06",
+      "last_updated": "1764614257",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9p4nzl2lz4n"
+      }
+    },
+    "050": {
+      "title": "The Two Juans",
+      "volume": "06",
+      "last_updated": "1764614258",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/md7objljd4p"
+      }
+    },
+    "049": {
+      "title": "Arancia",
+      "volume": "06",
+      "last_updated": "1764614260",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/dl7pnzqz6yo"
+      }
+    },
+    "051": {
+      "title": "A Modicum of Pride",
+      "volume": "06",
+      "last_updated": "1764614261",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/na7kkwrwq78"
+      }
+    },
+    "052": {
+      "title": "Admiration",
+      "volume": "06",
+      "last_updated": "1764614269",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/wl7lwmkmp4x"
+      }
+    },
+    "053": {
+      "title": "Sworn Allies",
+      "volume": "06",
+      "last_updated": "1764614273",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/vj4jmw3w248"
+      }
+    },
+    "055": {
+      "title": "The Inquirer",
+      "volume": "07",
+      "last_updated": "1764614275",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9ryd2pzpw4k"
+      }
+    },
+    "054": {
+      "title": "Holy Night",
+      "volume": "07",
+      "last_updated": "1764614283",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ljyqkdqdoy2"
+      }
+    },
+    "057": {
+      "title": "Canossa",
+      "volume": "07",
+      "last_updated": "1764614286",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/pg73ojpjz7r"
+      }
+    },
+    "056": {
+      "title": "The Two Sons",
+      "volume": "07",
+      "last_updated": "1764614287",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/6eyrnd2de7p"
+      }
+    },
+    "058": {
+      "title": "Whose Who Face Each Other",
+      "volume": "07",
+      "last_updated": "1764614290",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/n87wnrvgz7x"
+      }
+    },
+    "059": {
+      "title": "The One Enthroned",
+      "volume": "07",
+      "last_updated": "1764614298",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/qb4zpk3j3yj"
+      }
+    },
+    "061": {
+      "title": "Saggezza And Valore",
+      "volume": "07",
+      "last_updated": "1764614301",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/xny86lzoo4b"
+      }
+    },
+    "060": {
+      "title": "What God Desires",
+      "volume": "07",
+      "last_updated": "1764614305",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/qe4gqrlxr7j"
+      }
+    },
+    "064": {
+      "title": "Firenze Part 1",
+      "volume": "08",
+      "last_updated": "1764614314",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/agyvne6w948"
+      }
+    },
+    "063": {
+      "title": "Under The Stars",
+      "volume": "08",
+      "last_updated": "1764614314",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/a846ogxkw4x"
+      }
+    },
+    "062": {
+      "title": "Calat Alhambra",
+      "volume": "08",
+      "last_updated": "1764614314",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/bp45od8z275"
+      }
+    },
+    "065": {
+      "title": "Firenze Part 2",
+      "volume": "08",
+      "last_updated": "1764614317",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/m9yxngv237q"
+      }
+    },
+    "066": {
+      "title": "Encounter",
+      "volume": "08",
+      "last_updated": "1764614326",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/dl7pnzq96yo"
+      }
+    },
+    "067": {
+      "title": "Nyx, Goddess of Night",
+      "volume": "08",
+      "last_updated": "1764614328",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9p4nzl2xz4n"
+      }
+    },
+    "069": {
+      "title": "The One Who Hides in the Darkness",
+      "volume": "08",
+      "last_updated": "1764614329",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/md7objlxd4p"
+      }
+    },
+    "068": {
+      "title": "The Pazzi Conspiracy",
+      "volume": "08",
+      "last_updated": "1764614333",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ne7b6xpvny5"
+      }
+    },
+    "070": {
+      "title": "Within Grasp",
+      "volume": "08",
+      "last_updated": "1764614340",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/5xy2ole3j4l"
+      }
+    },
+    "071": {
+      "title": "Celebration",
+      "volume": "08",
+      "last_updated": "1764614340",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/wl7lwmkrp4x"
+      }
+    },
+    "073": {
+      "title": "On The Cusp of Chaos",
+      "volume": "09",
+      "last_updated": "1764614348",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/9ryd2pzaw4k"
+      }
+    },
+    "075": {
+      "title": "Sparks",
+      "volume": "09",
+      "last_updated": "1764614352",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/pg73ojpwz7r"
+      }
+    },
+    "072": {
+      "title": "Daughter of Roma",
+      "volume": "09",
+      "last_updated": "1764614352",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ljyqkdqzoy2"
+      }
+    },
+    "074": {
+      "title": "Denizens of the Vatican",
+      "volume": "09",
+      "last_updated": "1764614354",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/ej7me2nkbyd"
+      }
+    },
+    "077": {
+      "title": "The Holy and the Vulgar",
+      "volume": "09",
+      "last_updated": "1764614365",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/n87wnrvez7x"
+      }
+    },
+    "076": {
+      "title": "Time of Trials",
+      "volume": "09",
+      "last_updated": "1764614366",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/lqyelpvq34d"
+      }
+    },
+    "078": {
+      "title": "To Posterity",
+      "volume": "09",
+      "last_updated": "1764614378",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/qb4zpk3w3yj"
+      }
+    },
+    "079": {
+      "title": "The Path Chosen",
+      "volume": "09",
+      "last_updated": "1764614381",
+      "groups": {
+        "ETC": "/proxy/api/imgchest/chapter/qe4gqrl2r7j"
+      }
+    },
+    "080": {
+      "title": "Milestone",
+      "volume": "09",
+      "last_updated": "1764613431",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/9249kjzqayn"
+      }
+    },
+    "083": {
+      "title": "Graduation",
+      "volume": "10",
+      "last_updated": "1764613434",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/m9yxngkok7q"
+      }
+    },
+    "081": {
+      "title": "Decision",
+      "volume": "09",
+      "last_updated": "1764613438",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/ne7b6xwbvy5"
+      }
+    },
+    "082": {
+      "title": "One Snowy Day",
+      "volume": "10",
+      "last_updated": "1764613441",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/9p4nzlebl4n"
+      }
+    },
+    "084": {
+      "title": "Graduation II",
+      "volume": "10",
+      "last_updated": "1764613444",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/md7objgo94p"
+      }
+    },
+    "085": {
+      "title": "Graduation III",
+      "volume": "10",
+      "last_updated": "1764613447",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/na7kkwzbm78"
+      }
+    },
+    "086": {
+      "title": "Spring is just around the corner",
+      "volume": "10",
+      "last_updated": "1764613452",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/5xy2olp684l"
+      }
+    },
+    "087": {
+      "title": "The Signpost of the Waves",
+      "volume": "10",
+      "last_updated": "1764613455",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/ljyqkd9oky2"
+      }
+    },
+    "089": {
+      "title": "The Sky and the Sea",
+      "volume": "10",
+      "last_updated": "1764613458",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/6eyrndgo67p"
+      }
+    },
+    "088": {
+      "title": "In the Wind",
+      "volume": "10",
+      "last_updated": "1764613458",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/9ryd2p5bn4k"
+      }
+    },
+    "090": {
+      "title": "Young Leaders",
+      "volume": "10",
+      "last_updated": "1764613465",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/ej7me2mojyd"
+      }
+    },
+    "091": {
+      "title": "A new departure [Project Vinland]",
+      "volume": "10",
+      "last_updated": "1764613472",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/pg73oj9v37r"
+      }
+    },
+    "093": {
+      "title": "A Great Star Has Fallen",
+      "volume": "11",
+      "last_updated": "1764613485",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/n87wnr6ob7x"
+      }
+    },
+    "094": {
+      "title": "The Next Generation",
+      "volume": "11",
+      "last_updated": "1764613493",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/qb4zpk9ovyj"
+      }
+    },
+    "092": {
+      "title": "Eternal City",
+      "volume": "11",
+      "last_updated": "1764613496",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/lqyelp3bk4d"
+      }
+    },
+    "095": {
+      "title": "Homecoming",
+      "volume": "11",
+      "last_updated": "1764613498",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/qe4gqrdbb7j"
+      }
+    },
+    "096": {
+      "title": "Banquet",
+      "volume": "11",
+      "last_updated": "1764613518",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/xny86lxjd4b"
+      }
+    },
+    "099": {
+      "title": "The Papal Conclave (1)",
+      "volume": "12",
+      "last_updated": "1764613522",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/m9yxngkwk7q"
+      }
+    },
+    "098": {
+      "title": "Convening",
+      "volume": "12",
+      "last_updated": "1764613522",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/agyvnedkz48"
+      }
+    },
+    "097": {
+      "title": "The Time for Decision",
+      "volume": "12",
+      "last_updated": "1764613529",
+      "groups": {
+        "Project Vinland": "/proxy/api/imgchest/chapter/a846oga2v4x"
+      }
     }
   }
 }
