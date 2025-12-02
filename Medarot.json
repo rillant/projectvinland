@@ -1,0 +1,73 @@
+{
+  "title": "Medarot",
+  "description": "A manga adaptation of the first Medarot game. Created by Horuma Rin, the artist for the game series.",
+  "artist": "Horuma Rin",
+  "author": "Horuma Rin",
+  "cover": "https://rimg.bookwalker.jp/4064813/UwdNlrHZZCAtX4RcoBwrFg__.jpg",
+  "chapters": {
+    "03": {
+      "title": "The Name's Metabee!",
+      "last_updated": "1764694723",
+      "groups": {
+        "Project Medarot": "/proxy/api/imgchest/chapter/m9yxngd537q"
+      },
+      "volume": "01"
+    },
+    "04": {
+      "title": "The Fight is On!",
+      "last_updated": "1764694723",
+      "groups": {
+        "Project Medarot": "/proxy/api/imgchest/chapter/9p4nzlkqz4n"
+      },
+      "volume": "01"
+    },
+    "02": {
+      "title": "The enemy is an Alien",
+      "last_updated": "1764694725",
+      "groups": {
+        "Project Medarot": "/proxy/api/imgchest/chapter/9249kjlm2yn"
+      },
+      "volume": "01"
+    },
+    "05": {
+      "title": "Let's Settle it with a Robattle!",
+      "last_updated": "1764694734",
+      "groups": {
+        "Project Medarot": "/proxy/api/imgchest/chapter/na7kkw52q78"
+      },
+      "volume": "01"
+    },
+    "07": {
+      "title": "Rokusho the samurai!",
+      "last_updated": "1764694735",
+      "groups": {
+        "Project Medarot": "/proxy/api/imgchest/chapter/5xy2olnxj4l"
+      },
+      "volume": "01"
+    },
+    "06": {
+      "title": "Fight with all your might!",
+      "last_updated": "1764694735",
+      "groups": {
+        "Project Medarot": "/proxy/api/imgchest/chapter/md7obj5dd4p"
+      },
+      "volume": "01"
+    },
+    "01": {
+      "title": "My Friend is a Robot!",
+      "last_updated": "1764694736",
+      "groups": {
+        "Project Medarot": "/proxy/api/imgchest/chapter/ne7b6xnrny5"
+      },
+      "volume": "01"
+    },
+    "08": {
+      "title": "Dad's Job",
+      "last_updated": "1764694744",
+      "groups": {
+        "Project Medarot": "/proxy/api/imgchest/chapter/vj4jmwn5248"
+      },
+      "volume": "01"
+    }
+  }
+}
