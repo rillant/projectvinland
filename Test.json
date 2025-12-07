@@ -1,0 +1,17 @@
+{
+  "title": "Test",
+  "description": "Test",
+  "artist": "Test",
+  "author": "Test",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Test",
+      "volume": "",
+      "last_updated": "1765101672",
+      "groups": {
+        "Test": "/proxy/api/imgchest/chapter/o24a6vaxgyl"
+      }
+    }
+  }
+}
