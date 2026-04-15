@@ -5,109 +5,124 @@
   "author": "Misaki Takamatsu",
   "cover": "https://mangadex.org/covers/244c9d4f-e5fb-4590-9b96-4da191977b33/1c784052-b65a-42a5-a4d4-e5fa612a28c8.jpg",
   "chapters": {
-    "67": {
-      "title": "",
-      "last_updated": "1776276612",
-      "groups": {
-        "Tsubame Club": "/proxy/api/imgchest/chapter/a846qzqj2yx"
-      }
-    },
-    "66": {
-      "title": "",
-      "last_updated": "1776276618",
-      "groups": {
-        "Tsubame Club": "/proxy/api/imgchest/chapter/m9yx5l5w67q"
-      }
-    },
-    "65": {
-      "title": "",
-      "last_updated": "1776276624",
-      "groups": {
-        "Tsubame Club": "/proxy/api/imgchest/chapter/agyvgagkky8"
-      }
-    },
     "64": {
-      "title": "",
-      "last_updated": "1776276625",
+      "title": "Steady School Trip, Pt. 2",
+      "volume": "11",
+      "last_updated": "1727287825",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/ne7broragy5"
       }
     },
-    "70": {
-      "title": "",
-      "last_updated": "1776276645",
+    "65": {
+      "title": "Steady School Trip, Pt. 3",
+      "volume": "11",
+      "last_updated": "1729793424",
       "groups": {
-        "Tsubame Club": "/proxy/api/imgchest/chapter/ljyqmemwk72"
+        "Tsubame Club": "/proxy/api/imgchest/chapter/agyvgagkky8"
+      }
+    },
+    "66": {
+      "title": "Steady School Trip, Pt. 4",
+      "volume": "12",
+      "last_updated": "1735063818",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/m9yx5l5w67q"
+      }
+    },
+    "67": {
+      "title": "Gritty Memories",
+      "volume": "12",
+      "last_updated": "1738174212",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/a846qzqj2yx"
       }
     },
     "68": {
-      "title": "",
-      "last_updated": "1776276649",
+      "title": "Flickering Stage",
+      "volume": "12",
+      "last_updated": "1740766249",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/ljyqmemwx72"
       }
     },
     "69": {
-      "title": "",
-      "last_updated": "1776276649",
+      "title": "Hectic Family Trip",
+      "volume": "12",
+      "last_updated": "1743185449",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/vj4j5j5le78"
       }
     },
+    "70": {
+      "title": "Flustured Culture Festival",
+      "volume": "12",
+      "last_updated": "1746641445",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/ljyqmemwk72"
+      }
+    },
     "71": {
-      "title": "",
-      "last_updated": "1776276658",
+      "title": "Flustured Culture Festival, Pt. 2",
+      "volume": "12",
+      "last_updated": "1748455858",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/ej7mjrjdj7d"
       }
     },
+    "72": {
+      "title": "Flustured Culture Festival, Pt. 3",
+      "volume": "12",
+      "last_updated": "1750788686",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/agyvgag3zy8"
+      }
+    },
     "73": {
-      "title": "",
-      "last_updated": "1776276683",
+      "title": "Flustured Culture Festival, Pt. 4",
+      "volume": "13",
+      "last_updated": "1756577483",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/m9yx5l5ek7q"
       }
     },
     "74": {
-      "title": "",
-      "last_updated": "1776276686",
+      "title": "Chatty Wrap Parties",
+      "volume": "13",
+      "last_updated": "1759601486",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/9p4nqmqpl4n"
       }
     },
-    "72": {
-      "title": "",
-      "last_updated": "1776276686",
-      "groups": {
-        "Tsubame Club": "/proxy/api/imgchest/chapter/agyvgag3zy8"
-      }
-    },
     "75": {
-      "title": "",
-      "last_updated": "1776276691",
+      "title": "Snipping Hair Salon",
+      "volume": "13",
+      "last_updated": "1761502291",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/na7k2q29m78"
       }
     },
     "76": {
-      "title": "",
-      "last_updated": "1776276718",
+      "title": "Unsteady Detour",
+      "volume": "13",
+      "last_updated": "1766686318",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/xny8r8rgd4b"
       }
     },
-    "78": {
-      "title": "",
-      "last_updated": "1776276726",
-      "groups": {
-        "Tsubame Club": "/proxy/api/imgchest/chapter/9p4nqmq5l4n"
-      }
-    },
     "77": {
-      "title": "",
-      "last_updated": "1776276726",
+      "title": "A Distressed Christmas Eve",
+      "volume": "13",
+      "last_updated": "1770055926",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/9249m5moa7n"
+      }
+    },
+    "78": {
+      "title": "Huffy-Puffy Shrine Visit",
+      "volume": "13",
+      "last_updated": "1772043126",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/9p4nqmq5l4n"
       }
     }
   }
