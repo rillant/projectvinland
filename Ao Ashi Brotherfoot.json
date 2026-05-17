@@ -84,6 +84,13 @@
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/m9yxlka56yq"
       }
-    }
+    }, 
+    "11": {
+      "title": "Aoi Shun's Way", 
+      "volume": "2",
+      "groups" {
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/qe4gkbv9j7j" 
+      } 
+    } 
   }
 }
