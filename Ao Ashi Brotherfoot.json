@@ -84,13 +84,22 @@
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/m9yxlka56yq"
       }
-    }, 
+    },
     "11": {
-      "title": "Aoi Shun's Way", 
+      "title": "Aoi Shun's Way",
       "volume": "2",
+      "last_updated": "1780305342",
       "groups": {
-        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/qe4gkbv9j7j" 
-      } 
-    } 
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/qe4gkbv9j7j"
+      }
+    },
+    "12": {
+      "title": "Realization",
+      "volume": "2",
+      "last_updated": "1780305345",
+      "groups": {
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/5xy2jbd9z7l"
+      }
+    }
   }
 }
