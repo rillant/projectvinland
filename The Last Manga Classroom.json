@@ -4,5 +4,14 @@
   "artist": "Naoki Urasawa",
   "author": "Naoki Urasawa",
   "cover": "https://cdn.imgchest.com/files/74ef42fe4cc7.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1st Period: Entrance Ceremony",
+      "volume": "",
+      "last_updated": "1786460400",
+      "groups": {
+        "Project Vinland, Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/9p4nd6ox5yn"
+      }
+    }
+  }
 }
