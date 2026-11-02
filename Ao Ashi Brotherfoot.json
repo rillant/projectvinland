@@ -87,7 +87,7 @@
     },
     "11": {
       "title": "Aoi Shun's Way",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1779009342",
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/qe4gkbv9j7j"
@@ -95,7 +95,7 @@
     },
     "12": {
       "title": "Realization",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1780305345",
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/5xy2jbd9z7l"
@@ -103,7 +103,7 @@
     },
     "13": {
       "title": "Daigo Knows",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1782127564",
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/pg73qvemo4r"
@@ -111,7 +111,7 @@
     },
     "14": {
       "title": "Buena Vista",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1783586312",
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/5xy252wq3yl"
@@ -119,7 +119,7 @@
     },
     "15": {
       "title": "J.Youth Cup Match 1: Gainas Tottori U-18",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1784714678",
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/o24a9bjdeyl"
@@ -127,7 +127,7 @@
     },
     "16": {
       "title": "Maternal Instincts",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1784892250",
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/ljyqpwdjn72"
@@ -135,7 +135,7 @@
     },
     "17": {
       "title": "Aoi Shun's First Battle",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1786721574",
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/a846bmblvyx"
@@ -143,7 +143,7 @@
     },
     "18": {
       "title": "Realization",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1787404564",
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/ne7bbglrv75"
@@ -151,10 +151,74 @@
     },
     "19": {
       "title": "Aoi Shun's Impact",
-      "volume": "2",
+      "volume": "4",
       "last_updated": "1789995864",
       "groups": {
         "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/wl7lvpxmqyx"
+      }
+    },
+    "20": {
+      "title": "Request",
+      "volume": "4",
+      "last_updated": "1793637732",
+      "groups": {
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/na7k9lpj3y8"
+      }
+    },
+    "21": {
+      "title": "Bring Ehime Victory",
+      "volume": "4",
+      "last_updated": "1793637961",
+      "groups": {
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/9p4npdopbyn"
+      }
+    },
+    "22": {
+      "title": "Shiraishi Daigo's Circumstances",
+      "volume": "4",
+      "last_updated": "1793638119",
+      "groups": {
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/o24awe9zd7l"
+      }
+    },
+    "23": {
+      "title": "Secret Meeting",
+      "volume": "4",
+      "last_updated": "1793638202",
+      "groups": {
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/vj4jx22o3y8"
+      }
+    },
+    "24": {
+      "title": "The Only Son",
+      "volume": "4",
+      "last_updated": "1793638260",
+      "groups": {
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/pg73mxxkgyr"
+      }
+    },
+    "25": {
+      "title": "Reasons To Go",
+      "volume": "4",
+      "last_updated": "1793638330",
+      "groups": {
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/qe4ga66vq4j"
+      }
+    },
+    "26": {
+      "title": "Negotiations",
+      "volume": "4",
+      "last_updated": "1793638388",
+      "groups": {
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/dl7plmmg34o"
+      }
+    },
+    "27": {
+      "title": "Time Which Has Stopped",
+      "volume": "4",
+      "last_updated": "1793638440",
+      "groups": {
+        "Kobayashi's Cuisine": "/proxy/api/imgchest/chapter/vj4jx22d9y8"
       }
     }
   }
